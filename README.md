@@ -13,6 +13,5 @@ Buscando transformar processos em soluções inteligentes através de Apex, LWC 
 ## 📊 Estatísticas
 ![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanmach&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanmach&layout=compact&theme=radical)
-
 ---
 📫 **Como me encontrar:** [LinkedIn](https://www.linkedin.com/in/yan-machado-de-souza-826931186/)
