@@ -1,6 +1,6 @@
 # Olá, eu sou o Yan! 👋
 
-### Salesforce Developer Trainee @ OSF Academy
+### Salesforce Developer 
 Buscando transformar processos em soluções inteligentes através de Apex, LWC e Core Engineering.
 
 ---
@@ -15,3 +15,4 @@ Buscando transformar processos em soluções inteligentes através de Apex, LWC 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanmach&layout=compact&theme=radical)
 ---
 📫 **Como me encontrar:** [LinkedIn](https://www.linkedin.com/in/yan-machado-de-souza-826931186/)
+                          https://www.salesforce.com/trailblazer/yanmachado-sf 
