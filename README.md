@@ -1,8 +1,7 @@
-# Olá, eu sou o Yan! 👋
+# Hi, I'm Yan Machado! 👋
 
 ### Salesforce Developer 
-I'm a Salesforce Developer currently honing my skills in Core Engineering. I enjoy transforming business requirements into scalable technical solutions using Apex, Lightning Web Components, and advanced Flow automations..
-
+Salesforce Developer focusing on creating efficient, scalable solutions through Apex, LWC, and Flow. I'm passionate about the Salesforce ecosystem and constantly pushing my limits through hands-on challenges and Trailhead certifications.
 ---
 
 ## 🚀 Minhas Tecnologias
