@@ -1,7 +1,7 @@
 # Olá, eu sou o Yan! 👋
 
 ### Salesforce Developer 
-Buscando transformar processos em soluções inteligentes através de Apex, LWC e Core Engineering.
+I'm a Salesforce Developer currently honing my skills in Core Engineering. I enjoy transforming business requirements into scalable technical solutions using Apex, Lightning Web Components, and advanced Flow automations..
 
 ---
 
